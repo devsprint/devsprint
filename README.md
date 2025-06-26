@@ -10,7 +10,7 @@ Hi there!, I'm Gabriel, CTO of [AppFactorIO Ltd](https://appfactor.io)
 
 ## 📈 GitHub Stats
 
-[![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=devsprint&count_private=true&show_icons=true&theme=radical)](https://github.com/devsprint)
+[![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=devsprint&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/devsprint)
 
 <!--
 **devsprint/devsprint** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
