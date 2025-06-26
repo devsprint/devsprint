@@ -6,6 +6,7 @@ Hi there!, I'm Gabriel, CTO of [AppFactorIO Ltd](https://appfactor.io)
 
 ## 🛠 Technologies and Tools
 - **Languages:** Rust, Scala
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devsprint)](https://github.com/devsprint/github-readme-stats)
 - **Interests:** Application Modernization, AI, Distributed Systems, Performance Engineering, Functional Programming
 
 ## 📈 GitHub Stats
