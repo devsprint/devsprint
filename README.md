@@ -1,4 +1,8 @@
-## Hi there 👋
+## Gabriel Ciuloaica 🦀
+
+# 🚀 About Me
+
+Hi there!, I'm Gabriel, CTO of [AppFactorIO Ltd](https://appfactor.io)
 
 <!--
 **devsprint/devsprint** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
