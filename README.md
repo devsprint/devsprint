@@ -6,7 +6,7 @@ Hi there!, I'm Gabriel, CTO of [AppFactorIO Ltd](https://appfactor.io)
 
 ## 🛠 Technologies and Tools
 - **Languages:** Rust, Scala
-- **Interests:** Application Modernization, AI, Distributed Systems, Performance Engineering, Functional Programming
+- **Interests:** Application Modernization, AI, Distributed Systems, Performance Engineering, Functional Programming, WASM
 
 ## 📈 GitHub Stats
 
